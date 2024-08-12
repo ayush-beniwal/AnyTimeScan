@@ -1,0 +1,15 @@
+carnegietechnologies.gallery_saver.gallery_saver_plus-jetified-window-1.0.0-beta04-0 C:\Users\LENOVO\.gradle\caches\transforms-3\032f4dff274e516110d9363a9793a3e3\transformed\jetified-window-1.0.0-beta04\res
+carnegietechnologies.gallery_saver.gallery_saver_plus-jetified-window-java-1.0.0-beta04-1 C:\Users\LENOVO\.gradle\caches\transforms-3\142c24f2530665bb6deb4123ab140714\transformed\jetified-window-java-1.0.0-beta04\res
+carnegietechnologies.gallery_saver.gallery_saver_plus-coordinatorlayout-1.0.0-2 C:\Users\LENOVO\.gradle\caches\transforms-3\1bdcf9ec37b83623278e4aa0058ae8c5\transformed\coordinatorlayout-1.0.0\res
+carnegietechnologies.gallery_saver.gallery_saver_plus-core-1.6.0-3 C:\Users\LENOVO\.gradle\caches\transforms-3\2579a7de00054bf46a8dbc332552f622\transformed\core-1.6.0\res
+carnegietechnologies.gallery_saver.gallery_saver_plus-jetified-annotation-experimental-1.1.0-4 C:\Users\LENOVO\.gradle\caches\transforms-3\3f96ca76068ab400b494bc7d541ee256\transformed\jetified-annotation-experimental-1.1.0\res
+carnegietechnologies.gallery_saver.gallery_saver_plus-media-1.0.0-5 C:\Users\LENOVO\.gradle\caches\transforms-3\6a48f7a3729f658358de6b117bd27054\transformed\media-1.0.0\res
+carnegietechnologies.gallery_saver.gallery_saver_plus-jetified-core-ktx-1.5.0-6 C:\Users\LENOVO\.gradle\caches\transforms-3\a54a2fad8a95b00fa0bf1c29a478e166\transformed\jetified-core-ktx-1.5.0\res
+carnegietechnologies.gallery_saver.gallery_saver_plus-main-7 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\gallery_saver_plus-3.0.1\android\src\main\res
+carnegietechnologies.gallery_saver.gallery_saver_plus-release-8 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\gallery_saver_plus-3.0.1\android\src\release\res
+carnegietechnologies.gallery_saver.gallery_saver_plus-pngs-9 D:\code\Ugp\cad_scanner\build\gallery_saver_plus\generated\res\pngs\release
+carnegietechnologies.gallery_saver.gallery_saver_plus-resValues-10 D:\code\Ugp\cad_scanner\build\gallery_saver_plus\generated\res\resValues\release
+carnegietechnologies.gallery_saver.gallery_saver_plus-rs-11 D:\code\Ugp\cad_scanner\build\gallery_saver_plus\generated\res\rs\release
+carnegietechnologies.gallery_saver.gallery_saver_plus-mergeReleaseResources-12 D:\code\Ugp\cad_scanner\build\gallery_saver_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+carnegietechnologies.gallery_saver.gallery_saver_plus-mergeReleaseResources-13 D:\code\Ugp\cad_scanner\build\gallery_saver_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+carnegietechnologies.gallery_saver.gallery_saver_plus-merged_res-14 D:\code\Ugp\cad_scanner\build\gallery_saver_plus\intermediates\merged_res\release
