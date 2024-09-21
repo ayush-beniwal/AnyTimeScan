@@ -1,6 +1,6 @@
 # AnyTimeScan
 
-**AnyTimeScan** is a cross-platform mobile app (Flutter) for capturing object images to generate 3D models. It works on both Android and iOS and supports seamless cloud integration.
+**AnyTimeScan** is a cross-platform mobile app (Flutter) for capturing object images to generate 3D models. It works on both Android and iOS..
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/d6268c82-9baa-4345-bd8a-0fa14a80ee14" alt="AnyTimeScan Image 1">
