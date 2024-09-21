@@ -12,6 +12,13 @@ class DisplayPictureScreen extends ConsumerWidget {
   final String previewImagepath;
   ValueNotifier<double> uploadProgress = ValueNotifier<double>(0.0);
 
+
+final cloudinary = Cloudinary.signedConfig(
+  apiKey: 'your_api_key',
+  apiSecret: 'your_api_secret',
+  cloudName: 'your_cloud_name',
+);
+
   DisplayPictureScreen(
       {super.key, required this.show, required this.previewImagepath});
  
